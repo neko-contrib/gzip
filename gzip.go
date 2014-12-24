@@ -23,7 +23,7 @@ const (
 	NoCompression      = gzip.NoCompression
 )
 
-// All returns a Handler that adds gzip compression to all requests
+// Gzip returns a Handler that adds gzip compression to all requests
 func Gzip(compressionLevel int) neko.HandlerFunc {
 	return func(ctx *neko.Context) {
 
