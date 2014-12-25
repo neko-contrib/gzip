@@ -1,5 +1,6 @@
-gzip [![wercker status](https://app.wercker.com/status/c14315e0509943fa722a01b1f06b8ebc/s "wercker status")](https://app.wercker.com/project/bykey/c14315e0509943fa722a01b1f06b8ebc) [![GoDoc](https://godoc.org/github.com/neko-contrib/gzip?status.svg)](https://godoc.org/github.com/neko-contrib/gzip)
-====
+#gzip
+[![wercker status](https://app.wercker.com/status/c14315e0509943fa722a01b1f06b8ebc/s "wercker status")](https://app.wercker.com/project/bykey/c14315e0509943fa722a01b1f06b8ebc)
+[![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/neko-contrib/gzip)
 
 Gzip middleware for [Neko](https://github.com/rocwong/neko)
 
